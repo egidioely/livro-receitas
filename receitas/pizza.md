@@ -3,4 +3,4 @@
 - Massa
 - tempero
 - sal
-- calabresa, muita calabresa!!!1
+- calabresa, muita calabresa!!!
